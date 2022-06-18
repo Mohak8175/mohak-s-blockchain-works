@@ -1,0 +1,30 @@
+.body{
+    font-size: 1.3rem;
+  
+}
+.content{
+    /* z-index: 1; */
+    position: relative;
+}
+.particle{
+    /* z-index: 0; */
+}
+.navbar{
+    background-color: black;
+    color:whitesmoke;
+    border-radius: 5px;
+    border: solid 2px silver;
+    padding: 10px;
+    display: flex;
+}
+
+.navbar img{
+    height: 30px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+
+.navbar .accno{
+  font-size: 1rem;  
+}

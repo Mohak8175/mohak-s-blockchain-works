@@ -1,0 +1,80 @@
+.main{
+
+}
+
+
+.tab{
+    margin: 100px auto;
+    /* color: silver; */
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px;
+    border-radius: 5px;
+    width: 50vw;
+    text-align: center;
+    color: black;
+    opacity: 0.85;
+    
+}
+
+
+.tabhead{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 1px gray;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+ 
+}
+
+.tab2{
+    margin: 60px auto;
+    /* color: silver; */
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px;
+    border-radius: 5px;
+    width: 50vw;
+    text-align: center;
+        opacity: 0.85;
+}
+
+.tab2lhs{
+    float:left;
+    font-weight: bolder;
+}
+
+
+.tab2rhs{
+    float:right;
+    font-weight:normal;
+}
+
+.currency{
+    padding-bottom: 5px;
+    display: block;
+}
+
+form img{
+    height: 30px;
+    width: 30px;
+}
+
+button{
+    width: 45vw;
+    background-color:#0d47a1;
+    color: white;
+    margin: 8px;
+    font-weight: lighter;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 50px;
+    border-radius: 5px;
+    border:0px solid transparent;
+}
+
+.airdrop{
+    color: blue;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
